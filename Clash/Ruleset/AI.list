@@ -1,5 +1,5 @@
-# 内容：OpenAi
-# 数量：16条
+# 内容：AI
+# 数量：23条
 DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
@@ -16,3 +16,10 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,copilot.github.com
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,labs.google
